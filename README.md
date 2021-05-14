@@ -23,3 +23,7 @@ Here are examples of encryption and decryption for messages:
 Here we are sending a normal text message, and it is being encrypted, we decrypt it later on by giving the correct key to the message, and get the original message back. This concept is the same idea as message encryption in social media applications, where only the sender and the receiver have the key to the encrypted message.
 
 ![Screenshot (374)](https://user-images.githubusercontent.com/76274266/118341202-ddd46100-b526-11eb-8faf-c3c8a8d2b838.png)
+
+I also added some additional checks to check for wrong input:
+
+![Screenshot (376)](https://user-images.githubusercontent.com/76274266/118341297-360b6300-b527-11eb-9077-056a76b6e6df.png)
